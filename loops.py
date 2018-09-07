@@ -21,6 +21,7 @@ except ZeroDivisionError: #название ичключения,
 else:
     print("Try else") #если вообще нет ошибок
 finally:
+    pass
 
 
 # ключем в дикте могут быть только неизменяемые
